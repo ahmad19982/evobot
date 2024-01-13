@@ -1,8 +1,8 @@
 {
-  "TOKEN": "",
+  "TOKEN": "Njk3ODE3NDg3NTYzMTYxNjQx.G-tDaa.gnecUK-soWjtgTlYH1FInUNCaTkVV6KZt00w6I",
   "MAX_PLAYLIST_SIZE": 10,
-  "PRUNING": false,
-  "LOCALE": "en",
+  "PRUNING": true,
+  "LOCALE": "ar",
   "STAY_TIME": 30,
   "DEFAULT_VOLUME": 100
 }
